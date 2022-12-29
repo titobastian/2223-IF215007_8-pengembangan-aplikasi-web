@@ -14,7 +14,7 @@ Linux server operation |
 Nginx / Apache web server installation & operation |
 Cpanel operation |
 Domain registration |
-HTML Responsive Layout with Media Query & Flexbox |
+HTML Responsive Layout with Media Query & Flexbox | ![responsive1](https://user-images.githubusercontent.com/77034206/209968526-a39f80a8-f981-45fa-ae6a-2c29c38e5b9d.jpeg) ![responsive2](https://user-images.githubusercontent.com/77034206/209968565-ec2f9e4d-e8c0-4722-b0ee-3b2d81a9b4c5.jpeg)
 Javascript Data Transformation |
 Browser API - Event Handling, Local Storage, Element manipulation |
 HTTP GET & POST using Form Action and Fetch API |
