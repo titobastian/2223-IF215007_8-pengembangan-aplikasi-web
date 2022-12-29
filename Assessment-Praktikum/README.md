@@ -13,7 +13,7 @@ NodeJS & NPM installation, operation & hello world | ![node npm hello world](htt
 Linux server operation |
 Nginx / Apache web server installation & operation |
 Cpanel operation |
-Domain registration |
+Domain registration | ![domain](https://user-images.githubusercontent.com/77034206/209974315-d92cfac3-21f4-402d-bd40-0ba676c5f9f8.jpeg)
 HTML Responsive Layout with Media Query & Flexbox | ![responsive1](https://user-images.githubusercontent.com/77034206/209968526-a39f80a8-f981-45fa-ae6a-2c29c38e5b9d.jpeg) ![responsive2](https://user-images.githubusercontent.com/77034206/209968565-ec2f9e4d-e8c0-4722-b0ee-3b2d81a9b4c5.jpeg)
 Javascript Data Transformation |
 Browser API - Event Handling, Local Storage, Element manipulation |
