@@ -25,7 +25,6 @@ Deploy Javascript Project to Cpanel |
 HTML Responsive Layout with Bootstrap | ![bootstrap](https://user-images.githubusercontent.com/77034206/209973567-896b3897-f774-42dd-b1a2-be5a6de73dda.jpeg)
 Single Page App with React & React-router | ![single page](https://user-images.githubusercontent.com/77034206/209967558-85a5ad62-0e14-44f6-a1e6-0b63ed0a7aae.jpeg) ![router](https://user-images.githubusercontent.com/77034206/209967604-2fc9ff17-0005-41d8-af52-7d3372597f96.jpeg)
 Dynamic Web Page using Laravel | 
-
 Web Service using Slim |
 News Site using Wordpress |
 
