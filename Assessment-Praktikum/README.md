@@ -22,8 +22,6 @@ Cpanel operation | Berikut Cara Membuat Database MySQL di cPanel … Sebelum And
 Domain registration | ![domain](https://user-images.githubusercontent.com/77034206/209974315-d92cfac3-21f4-402d-bd40-0ba676c5f9f8.jpeg) 1.Temukan Registrar Domain yang Kredibel. Registrar adalah perusahaan yang mendaftarkan dan mengelola domain 2. Cari Nama Domain 3. Pilih Domain 4. Selesaikan Pendaftaran Domain 5 Verifikasi Kepemilikan Domain.
 HTML Responsive Layout with Media Query & Flexbox | ![WhatsApp Image 2022-12-29 at 23 03 45](https://user-images.githubusercontent.com/77034206/209979139-c096214a-bc6e-4012-85cb-a5137b189b5f.jpeg) ![WhatsApp Image 2022-12-29 at 23 04 26](https://user-images.githubusercontent.com/77034206/209979215-02bba895-a3f6-40e9-98d0-84ac5d127036.jpeg)
 Javascript Data Transformation |
-
-
 Browser API - Event Handling, Local Storage, Element manipulation |
 HTTP GET & POST using Form Action and Fetch API |
 Javascript DB - Dynamic Web Page |
