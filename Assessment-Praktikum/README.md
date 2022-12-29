@@ -10,7 +10,6 @@ PostgreSQL / MySQL | ![PostgreSQL](https://user-images.githubusercontent.com/770
 DBeaver installation DB connection | ![DBeaver installation DB connection](https://user-images.githubusercontent.com/77034206/209965157-0442c781-0963-4670-9f74-80bc66c16767.jpeg)
 MobaXtrem installation & SSH connection | 
 NodeJS & NPM installation, operation & hello world | ![NodeJS   NPM](https://user-images.githubusercontent.com/77034206/209965426-9082a5de-ac38-4415-ac45-07e75a106560.jpeg)
-
 Linux server operation |
 Nginx / Apache web server installation & operation |
 Cpanel operation |
