@@ -20,8 +20,10 @@ Cpanel operation | Berikut Cara Membuat Database MySQL di cPanel … Sebelum And
 4 | 4. Tambahkan User ke Database Pada bagian Add User To Database, Anda akan melihat daftar drop down untuk User dan Database. Silakan pilih User dan Database yang ingin Anda hubungkan.Dalam contoh ini, kami akan memasukkan user niagahos_user dengan database niagahos_namadatabase. ![cp4](https://user-images.githubusercontent.com/77034206/209977443-17601e36-933f-4470-af08-1874af4cde9b.png)  
 5 | 5. Membuat Database MySQL dengan Memilih Semua Privileges Setelahnya, Anda perlu mengatur user privilege MySQL. Caranya, beri tanda centang pada bagian ALL PRIVILEGES, kemudian klik tombol Make Changes seperti gambar di bawah ini. ![cp5](https://user-images.githubusercontent.com/77034206/209977521-9578145c-7c5a-4235-91e7-7fa1479f310d.png) 
 Domain registration | ![domain](https://user-images.githubusercontent.com/77034206/209974315-d92cfac3-21f4-402d-bd40-0ba676c5f9f8.jpeg) 1.Temukan Registrar Domain yang Kredibel. Registrar adalah perusahaan yang mendaftarkan dan mengelola domain 2. Cari Nama Domain 3. Pilih Domain 4. Selesaikan Pendaftaran Domain 5 Verifikasi Kepemilikan Domain.
-HTML Responsive Layout with Media Query & Flexbox | ![responsive1](https://user-images.githubusercontent.com/77034206/209968526-a39f80a8-f981-45fa-ae6a-2c29c38e5b9d.jpeg) ![responsive2](https://user-images.githubusercontent.com/77034206/209968565-ec2f9e4d-e8c0-4722-b0ee-3b2d81a9b4c5.jpeg)
+HTML Responsive Layout with Media Query & Flexbox | ![WhatsApp Image 2022-12-29 at 23 03 45](https://user-images.githubusercontent.com/77034206/209979139-c096214a-bc6e-4012-85cb-a5137b189b5f.jpeg) ![WhatsApp Image 2022-12-29 at 23 04 26](https://user-images.githubusercontent.com/77034206/209979215-02bba895-a3f6-40e9-98d0-84ac5d127036.jpeg)
 Javascript Data Transformation |
+
+
 Browser API - Event Handling, Local Storage, Element manipulation |
 HTTP GET & POST using Form Action and Fetch API |
 Javascript DB - Dynamic Web Page |
