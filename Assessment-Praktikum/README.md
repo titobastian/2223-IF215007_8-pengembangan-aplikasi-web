@@ -11,7 +11,7 @@ DBeaver installation DB connection | ![DBeaver installation DB connection](https
 MobaXtrem installation & SSH connection | ![mobaxterm](https://user-images.githubusercontent.com/77034206/209970175-17960fd6-c047-4ac0-a975-6d249518597e.jpeg)
 NodeJS & NPM installation, operation & hello world | ![node npm hello world](https://user-images.githubusercontent.com/77034206/209966595-92a478ab-2c36-4e47-9910-eab5ac2eaf69.jpeg)
 Linux server operation |
-Nginx / Apache web server installation & operation |
+Nginx / Apache web server installation & operation | ![apache](https://user-images.githubusercontent.com/77034206/209976213-1babbfd9-b4bf-4b00-ba0a-3a8471fbd9fc.jpeg)
 Cpanel operation | ![cpanel](https://user-images.githubusercontent.com/77034206/209974768-f2a68f5d-d30f-4dce-8756-05721276c258.jpeg)
 Domain registration | ![domain](https://user-images.githubusercontent.com/77034206/209974315-d92cfac3-21f4-402d-bd40-0ba676c5f9f8.jpeg)
 HTML Responsive Layout with Media Query & Flexbox | ![responsive1](https://user-images.githubusercontent.com/77034206/209968526-a39f80a8-f981-45fa-ae6a-2c29c38e5b9d.jpeg) ![responsive2](https://user-images.githubusercontent.com/77034206/209968565-ec2f9e4d-e8c0-4722-b0ee-3b2d81a9b4c5.jpeg)
