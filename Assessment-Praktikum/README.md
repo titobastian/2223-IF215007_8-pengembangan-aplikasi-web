@@ -17,8 +17,7 @@ Linux server operation |
 Nginx / Apache web server installation & operation | ![apache](https://user-images.githubusercontent.com/77034206/209976213-1babbfd9-b4bf-4b00-ba0a-3a8471fbd9fc.jpeg)
 Cpanel operation | Berikut Cara Membuat Database MySQL di cPanel … Sebelum Anda memulai langkah pada tutorial ini, pastikan bahwa Anda memiliki akses ke cPanel. Jika sudah, yuk ikuti langkah-langkah berikut! 
 1 | 1. Login ke cPanel dan Pilih Menu MySQL Databases Silakan login ke cPanel Anda, kemudian klik menu MySQL Databases seperti yang terlihat pada gambar di bawah ini: ![cp1](https://user-images.githubusercontent.com/77034206/209977160-0a4dfd87-0f81-4d62-bb64-ab544b1cd43d.png)
-2 | 2.Masukkan Nama Database Masukkan nama database pada kolom yang tersedia (tuliskan nama database tanpa spasi). Setelah memasukkan nama database, silakan klik tombol Create Database seperti di bawah ini!![cp2](https://user-images.githubusercontent.com/77034206/209977267-4266d8b6-00f6-42d3-a051-af5783c66998.png) 
-.  
+2 | 2.Masukkan Nama Database Masukkan nama database pada kolom yang tersedia (tuliskan nama database tanpa spasi). Setelah memasukkan nama database, silakan klik tombol Create Database seperti di bawah ini!![cp2](https://user-images.githubusercontent.com/77034206/209977267-4266d8b6-00f6-42d3-a051-af5783c66998.png)
 3 | 3. Buat Username Klik tombol Go Back untuk kembali ke halaman pengaturan database: ![cp3](https://user-images.githubusercontent.com/77034206/209977381-9e0dea68-4e13-4359-b63d-d8f3247f3c4a.png) 
 4 | 4. Tambahkan User ke Database Pada bagian Add User To Database, Anda akan melihat daftar drop down untuk User dan Database. Silakan pilih User dan Database yang ingin Anda hubungkan.Dalam contoh ini, kami akan memasukkan user niagahos_user dengan database niagahos_namadatabase. ![cp4](https://user-images.githubusercontent.com/77034206/209977443-17601e36-933f-4470-af08-1874af4cde9b.png)  
 5 | 5. Membuat Database MySQL dengan Memilih Semua Privileges Setelahnya, Anda perlu mengatur user privilege MySQL. Caranya, beri tanda centang pada bagian ALL PRIVILEGES, kemudian klik tombol Make Changes seperti gambar di bawah ini. ![cp5](https://user-images.githubusercontent.com/77034206/209977521-9578145c-7c5a-4235-91e7-7fa1479f310d.png) 
@@ -27,14 +26,8 @@ HTML Responsive Layout with Media Query & Flexbox | ![WhatsApp Image 2022-12-29 
 Javascript Data Transformation |
 Browser API - Event Handling, Local Storage, Element manipulation |
 HTTP GET & POST using Form Action and Fetch API |
-Javascript DB - Dynamic Web Page |
-Javascript DB - Web Service |
-OOP-based Javascript Project using Composer |
-Deploy Javascript Project to Cpanel |
 HTML Responsive Layout with Bootstrap | ![bootstrap](https://user-images.githubusercontent.com/77034206/209973567-896b3897-f774-42dd-b1a2-be5a6de73dda.jpeg)
 Single Page App with React & React-router | ![single page](https://user-images.githubusercontent.com/77034206/209967558-85a5ad62-0e14-44f6-a1e6-0b63ed0a7aae.jpeg) ![router](https://user-images.githubusercontent.com/77034206/209967604-2fc9ff17-0005-41d8-af52-7d3372597f96.jpeg)
-Web Service using Slim |
-News Site using Wordpress | 
 Dynamic Web Page using Laravel | a – Pertama-tama pastikan composer sudah terinstall . Bisa di cek di command prompt. – Lalu, pastikan sudah ada folder laravel ![image](https://user-images.githubusercontent.com/105898484/209793935-517bfeb2-774b-404c-9953-aaa3a7c7ed30.png)
 b | – Kemudian, sudah terdapat bootstrap 3.3.7 yang sudah di exraxt – Setelah itu, pastikan sudah ada Jquery-1.2.4.min.js. – Kemudian rename folder bootstrap dengan assets. Setelah itu, pindahkan folder assets ke public yang ada di folder laravel . ![image](https://user-images.githubusercontent.com/105898484/209793962-ad60c234-bbd6-4578-9f66-65b2b9b105f4.png)
 c | -setelah itu pindahkan jquery-1.2.4 ke js yang ada di folder assets. ![image](https://user-images.githubusercontent.com/105898484/209793992-adc8f2c0-69d0-4c34-98bd-0be61fe18c18.png)
