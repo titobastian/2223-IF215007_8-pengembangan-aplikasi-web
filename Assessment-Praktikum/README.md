@@ -13,7 +13,7 @@ PostgreSQL / MySQL | ![PostgreSQL](https://user-images.githubusercontent.com/770
 DBeaver installation DB connection | ![DBeaver installation DB connection](https://user-images.githubusercontent.com/77034206/209965157-0442c781-0963-4670-9f74-80bc66c16767.jpeg)
 MobaXtrem installation & SSH connection | ![mobaxterm](https://user-images.githubusercontent.com/77034206/209970175-17960fd6-c047-4ac0-a975-6d249518597e.jpeg)
 NodeJS & NPM installation, operation & hello world | ![node npm hello world](https://user-images.githubusercontent.com/77034206/209966595-92a478ab-2c36-4e47-9910-eab5ac2eaf69.jpeg)
-Linux server operation |
+Linux server operation | ![linux server](https://user-images.githubusercontent.com/77034206/209988760-5bf639a4-f6f9-49fe-992e-8ca8e84e0863.jpeg)
 Nginx / Apache web server installation & operation | ![apache](https://user-images.githubusercontent.com/77034206/209976213-1babbfd9-b4bf-4b00-ba0a-3a8471fbd9fc.jpeg)
 Cpanel operation | Berikut Cara Membuat Database MySQL di cPanel … Sebelum Anda memulai langkah pada tutorial ini, pastikan bahwa Anda memiliki akses ke cPanel. Jika sudah, yuk ikuti langkah-langkah berikut! 
 1 | 1. Login ke cPanel dan Pilih Menu MySQL Databases Silakan login ke cPanel Anda, kemudian klik menu MySQL Databases seperti yang terlihat pada gambar di bawah ini: ![cp1](https://user-images.githubusercontent.com/77034206/209977160-0a4dfd87-0f81-4d62-bb64-ab544b1cd43d.png)
