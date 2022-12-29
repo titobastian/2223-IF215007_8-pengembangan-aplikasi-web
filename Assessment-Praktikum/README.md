@@ -23,7 +23,7 @@ Cpanel operation | Berikut Cara Membuat Database MySQL di cPanel … Sebelum And
 5 | 5. Membuat Database MySQL dengan Memilih Semua Privileges Setelahnya, Anda perlu mengatur user privilege MySQL. Caranya, beri tanda centang pada bagian ALL PRIVILEGES, kemudian klik tombol Make Changes seperti gambar di bawah ini. ![cp5](https://user-images.githubusercontent.com/77034206/209977521-9578145c-7c5a-4235-91e7-7fa1479f310d.png) 
 Domain registration | ![domain](https://user-images.githubusercontent.com/77034206/209974315-d92cfac3-21f4-402d-bd40-0ba676c5f9f8.jpeg) 1.Temukan Registrar Domain yang Kredibel. Registrar adalah perusahaan yang mendaftarkan dan mengelola domain 2. Cari Nama Domain 3. Pilih Domain 4. Selesaikan Pendaftaran Domain 5 Verifikasi Kepemilikan Domain.
 HTML Responsive Layout with Media Query & Flexbox | ![WhatsApp Image 2022-12-29 at 23 03 45](https://user-images.githubusercontent.com/77034206/209979139-c096214a-bc6e-4012-85cb-a5137b189b5f.jpeg) ![WhatsApp Image 2022-12-29 at 23 04 26](https://user-images.githubusercontent.com/77034206/209979215-02bba895-a3f6-40e9-98d0-84ac5d127036.jpeg)
-Javascript Data Transformation |
+Javascript Data Transformation | ![TRANSFORMATION](https://user-images.githubusercontent.com/77034206/209983413-1f0c1f31-ce25-403f-8962-356b2ff93e03.jpeg)
 Browser API - Event Handling, Local Storage, Element manipulation |
 HTTP GET & POST using Form Action and Fetch API |
 HTML Responsive Layout with Bootstrap | ![bootstrap](https://user-images.githubusercontent.com/77034206/209973567-896b3897-f774-42dd-b1a2-be5a6de73dda.jpeg)
